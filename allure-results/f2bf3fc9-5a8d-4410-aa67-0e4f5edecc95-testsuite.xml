@@ -1,0 +1,92 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1514149419222' stop='1514149431557'>
+    <name>Bank Manager Login Test - </name>
+    <title>Bank Manager Login Test - </title>
+    <test-cases>
+        <test-case start='1514149419223' status='passed' stop='1514149423222'>
+            <name>should login as bank manager</name>
+            <title>should login as bank manager</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2dd882eb-5016-4ab9-80bc-913504be0467-attachment.png' type='image/png' size='37626'/>
+            </attachments>
+        </test-case>
+        <test-case start='1514149423222' status='passed' stop='1514149424718'>
+            <name>should add a customer</name>
+            <title>should add a customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='59ef956b-da38-4db9-a53d-0deade7f986d-attachment.png' type='image/png' size='64812'/>
+            </attachments>
+        </test-case>
+        <test-case start='1514149424718' status='failed' stop='1514149430605'>
+            <name>should open an account</name>
+            <title>should open an account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='cd2eb282-0406-4ed6-a6e5-3f19c0fbdccf-attachment.png' type='image/png' size='59113'/>
+            </attachments>
+            <failure>
+                <message>Failed: Wait timed out after 5001ms</message>
+                <stack-trace>TimeoutError: Wait timed out after 5001ms
+                    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2201:17
+                    at ManagedPromise.invokeCallback_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)
+                    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)
+                    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)
+                    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27)
+                    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7
+                    at &lt;anonymous>
+                    at process._tickCallback (internal/process/next_tick.js:188:7)
+                From: Task: &lt;anonymous wait>
+                    at scheduleWait (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2188:20)
+                    at ControlFlow.wait (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2517:12)
+                    at Driver.wait (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/webdriver.js:934:29)
+                    at run (/usr/local/lib/node_modules/protractor/built/browser.js:59:33)
+                    at ProtractorBrowser.to.(anonymous function) [as wait] (/usr/local/lib/node_modules/protractor/built/browser.js:67:16)
+                    at handleAlert (/Users/suyashnande/WebstormProjects/BankPageObjects/test_spec/BankManagerLogin_spec.js:15:17)
+                    at UserContext.&lt;anonymous> (/Users/suyashnande/WebstormProjects/BankPageObjects/test_spec/BankManagerLogin_spec.js:45:9)
+                    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:112:25
+                    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)
+                    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)
+                From: Task: Run it("should open an account") in control flow
+                    at UserContext.&lt;anonymous> (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:94:19)
+                    at attempt (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)
+                    at QueueRunner.run (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)
+                    at QueueRunner.execute (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4199:10)
+                    at Spec.queueRunnerFactory (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:909:35)
+                    at Spec.execute (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:526:10)
+                    at UserContext.fn (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:5340:37)
+                    at attempt (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)
+                    at QueueRunner.run (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)
+                    at runNext (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)
+                From asynchronous test: 
+                Error
+                    at Suite.&lt;anonymous> (/Users/suyashnande/WebstormProjects/BankPageObjects/test_spec/BankManagerLogin_spec.js:42:5)
+                    at addSpecsToSuite (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)
+                    at Env.describe (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)
+                    at describe (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (/Users/suyashnande/WebstormProjects/BankPageObjects/test_spec/BankManagerLogin_spec.js:1:63)
+                    at Module._compile (module.js:635:30)
+                    at Object.Module._extensions..js (module.js:646:10)
+                    at Module.load (module.js:554:32)
+                    at tryModuleLoad (module.js:497:12)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1514149430605' status='passed' stop='1514149431557'>
+            <name>should search and validate a customer</name>
+            <title>should search and validate a customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1fa70e73-deed-44cc-9c94-6d76454662dc-attachment.png' type='image/png' size='66154'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

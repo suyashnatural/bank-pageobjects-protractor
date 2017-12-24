@@ -5,6 +5,11 @@
   "BankMgrHomePage": {
                       "FirstName": "Suyash",
                       "LastName": "Nande",
-                      "PostCode": "28262"
+                      "PostCode": "28262",
+
+                      "CustomerName": "Suyash Nande",
+                      "Currency": "Dollar",
+
+                      "Search_Cust_Name": "Suyash"
                      }
 }

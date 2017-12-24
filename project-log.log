@@ -98,3 +98,84 @@
 {"level":"info","message":"alert present","timestamp":"2017-12-24T17:50:02.001Z"}
 {"level":"info","message":"alert accepted","timestamp":"2017-12-24T17:50:02.002Z"}
 {"level":"info","message":"Customer added successfully with customer id :6","timestamp":"2017-12-24T17:50:03.004Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T20:27:50.905Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T20:27:50.906Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T20:29:59.554Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T20:30:09.393Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T20:31:46.314Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T20:32:33.897Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T20:35:07.935Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T20:35:07.938Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T20:35:07.939Z"}
+{"level":"info","message":"Adding customer info","timestamp":"2017-12-24T20:35:13.046Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T20:35:13.047Z"}
+{"level":"info","message":"Opening Customer Account","timestamp":"2017-12-24T20:35:14.524Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T20:35:14.524Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T20:38:36.037Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T20:38:36.039Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T20:38:36.040Z"}
+{"level":"info","message":"Adding customer info","timestamp":"2017-12-24T20:38:39.835Z"}
+{"level":"info","message":"Customer added successfully with customer id :6","timestamp":"2017-12-24T20:38:40.777Z"}
+{"level":"info","message":"Opening Customer Account","timestamp":"2017-12-24T20:38:41.289Z"}
+{"level":"info","message":"Account created successfully with account Number :1016","timestamp":"2017-12-24T20:38:42.224Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T20:57:43.782Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T20:57:43.784Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T20:57:43.785Z"}
+{"level":"info","message":"Adding customer info","timestamp":"2017-12-24T20:57:47.591Z"}
+{"level":"info","message":"Customer added successfully with customer id :6","timestamp":"2017-12-24T20:57:48.645Z"}
+{"level":"info","message":"Opening Customer Account","timestamp":"2017-12-24T20:57:49.163Z"}
+{"level":"info","message":"Account created successfully with account Number :1016","timestamp":"2017-12-24T20:57:49.944Z"}
+{"level":"info","message":"Searching the customer Cust001","timestamp":"2017-12-24T20:57:50.457Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T21:00:15.249Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T21:00:15.252Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T21:00:15.254Z"}
+{"level":"info","message":"Adding customer info","timestamp":"2017-12-24T21:00:18.758Z"}
+{"level":"info","message":"Customer added successfully with customer id :6","timestamp":"2017-12-24T21:00:19.709Z"}
+{"level":"info","message":"Opening Customer Account","timestamp":"2017-12-24T21:00:20.236Z"}
+{"level":"info","message":"Account created successfully with account Number :1016","timestamp":"2017-12-24T21:00:21.109Z"}
+{"level":"info","message":"Searching the customer Cust001","timestamp":"2017-12-24T21:00:21.625Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T21:00:58.290Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T21:00:58.292Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T21:00:58.293Z"}
+{"level":"info","message":"Adding customer info","timestamp":"2017-12-24T21:01:01.794Z"}
+{"level":"info","message":"Customer added successfully with customer id :6","timestamp":"2017-12-24T21:01:02.751Z"}
+{"level":"info","message":"Opening Customer Account","timestamp":"2017-12-24T21:01:03.276Z"}
+{"level":"info","message":"Account created successfully with account Number :1016","timestamp":"2017-12-24T21:01:04.066Z"}
+{"level":"info","message":"Searching the customer Cust001","timestamp":"2017-12-24T21:01:04.583Z"}
+{"level":"info","message":"Customer validated successfully","timestamp":"2017-12-24T21:01:04.585Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T21:02:31.621Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T21:02:31.623Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T21:02:31.624Z"}
+{"level":"info","message":"Adding customer info","timestamp":"2017-12-24T21:02:35.729Z"}
+{"level":"info","message":"Customer added successfully with customer id :6","timestamp":"2017-12-24T21:02:36.767Z"}
+{"level":"info","message":"Opening Customer Account","timestamp":"2017-12-24T21:02:37.280Z"}
+{"level":"info","message":"Account created successfully with account Number :1016","timestamp":"2017-12-24T21:02:38.181Z"}
+{"level":"info","message":"Searching the customer Milky","timestamp":"2017-12-24T21:02:38.710Z"}
+{"level":"info","message":"Customer validated successfully","timestamp":"2017-12-24T21:02:38.711Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T21:03:39.226Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T21:03:39.228Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T21:03:39.229Z"}
+{"level":"info","message":"Adding customer info","timestamp":"2017-12-24T21:03:43.224Z"}
+{"level":"info","message":"Customer added successfully with customer id :6","timestamp":"2017-12-24T21:03:44.146Z"}
+{"level":"info","message":"Opening Customer Account","timestamp":"2017-12-24T21:03:44.719Z"}
+{"level":"info","message":"Searching the customer Suyash","timestamp":"2017-12-24T21:03:50.606Z"}
+{"level":"info","message":"Customer validated successfully","timestamp":"2017-12-24T21:03:50.607Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T21:04:31.799Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T21:04:31.801Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T21:04:31.802Z"}
+{"level":"info","message":"Adding customer info","timestamp":"2017-12-24T21:04:35.995Z"}
+{"level":"info","message":"Customer added successfully with customer id :6","timestamp":"2017-12-24T21:04:36.947Z"}
+{"level":"info","message":"Opening Customer Account","timestamp":"2017-12-24T21:04:37.462Z"}
+{"level":"info","message":"Account created successfully with account Number :1016","timestamp":"2017-12-24T21:04:38.244Z"}
+{"level":"info","message":"Searching the customer Suyash","timestamp":"2017-12-24T21:04:38.766Z"}
+{"level":"info","message":"Customer validated successfully","timestamp":"2017-12-24T21:04:38.768Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T21:07:35.068Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T21:07:35.070Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T21:07:35.071Z"}
+{"level":"info","message":"Adding customer info","timestamp":"2017-12-24T21:07:38.616Z"}
+{"level":"info","message":"Customer added successfully with customer id :6","timestamp":"2017-12-24T21:07:39.645Z"}
+{"level":"info","message":"Opening Customer Account","timestamp":"2017-12-24T21:07:40.169Z"}
+{"level":"info","message":"Account created successfully with account Number :1016","timestamp":"2017-12-24T21:07:41.068Z"}
+{"level":"info","message":"Searching the customer Suyash","timestamp":"2017-12-24T21:07:41.583Z"}
+{"level":"info","message":"Customer validated successfully","timestamp":"2017-12-24T21:07:41.585Z"}
+{"level":"info","message":"Customer deleted successfully","timestamp":"2017-12-24T21:07:42.502Z"}

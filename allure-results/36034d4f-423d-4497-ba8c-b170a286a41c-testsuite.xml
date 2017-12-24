@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1514147218794' stop='1514147224211'>
+    <name>Bank Manager Login Test - </name>
+    <title>Bank Manager Login Test - </title>
+    <test-cases>
+        <test-case start='1514147218795' status='failed' stop='1514147224211'>
+            <name>encountered a declaration exception</name>
+            <title>encountered a declaration exception</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='42b43bd8-d996-4dfc-96e5-4e2db77b88f1-attachment.png' type='image/png' size='10423'/>
+            </attachments>
+            <failure>
+                <message>ReferenceError: logger is not defined</message>
+                <stack-trace>ReferenceError: logger is not defined
+                    at new handleAlert (/Users/suyashnande/WebstormProjects/BankPageObjects/utilities/handle-alert.js:4:5)
+                    at Object.&lt;anonymous> (/Users/suyashnande/WebstormProjects/BankPageObjects/utilities/handle-alert.js:13:18)
+                    at Module._compile (module.js:635:30)
+                    at Object.Module._extensions..js (module.js:646:10)
+                    at Module.load (module.js:554:32)
+                    at tryModuleLoad (module.js:497:12)
+                    at Function.Module._load (module.js:489:3)
+                    at Module.require (module.js:579:17)
+                    at require (internal/module.js:11:18)
+                    at Suite.&lt;anonymous> (/Users/suyashnande/WebstormProjects/BankPageObjects/test_spec/BankManagerLogin_spec.js:9:23)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

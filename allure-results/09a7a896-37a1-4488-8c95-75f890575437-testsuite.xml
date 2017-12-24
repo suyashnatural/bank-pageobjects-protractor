@@ -1,0 +1,57 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1514149655064' stop='1514149662887'>
+    <name>Bank Manager Login Test - </name>
+    <title>Bank Manager Login Test - </title>
+    <test-cases>
+        <test-case start='1514149655064' status='passed' stop='1514149658614'>
+            <name>should login as bank manager</name>
+            <title>should login as bank manager</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d7ec5bf8-d66e-4458-9bbe-6bb3217f1993-attachment.png' type='image/png' size='37626'/>
+            </attachments>
+        </test-case>
+        <test-case start='1514149658615' status='passed' stop='1514149660167'>
+            <name>should add a customer</name>
+            <title>should add a customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2f8c2661-7eda-4aec-856d-af3a5dc059a8-attachment.png' type='image/png' size='64752'/>
+            </attachments>
+        </test-case>
+        <test-case start='1514149660167' status='passed' stop='1514149661582'>
+            <name>should open an account</name>
+            <title>should open an account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='53770175-7ebf-43a8-b4b1-98137ba8bb78-attachment.png' type='image/png' size='58293'/>
+            </attachments>
+        </test-case>
+        <test-case start='1514149661582' status='passed' stop='1514149662502'>
+            <name>should search and validate a customer</name>
+            <title>should search and validate a customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f017b7a9-685a-4057-8c44-051226c6fd64-attachment.png' type='image/png' size='67073'/>
+            </attachments>
+        </test-case>
+        <test-case start='1514149662502' status='passed' stop='1514149662887'>
+            <name>should delete the customer</name>
+            <title>should delete the customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e6c7b877-3d49-48c3-b154-9a55d01bca7f-attachment.png' type='image/png' size='56481'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

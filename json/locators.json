@@ -18,6 +18,12 @@
                       "Open_Acc_ngClick": "openAccount()",
                       "Cust_DropDown_ngModel": "custId",
                       "Currency_DropDown_ngModel": "currency",
-                      "Process_btn_text":"Process"
+                      "Process_btn_text":"Process",
+
+                      "Show_Cust_ngClick": "showCust()",
+                      "SearchBar_ngModel": "searchCustomer",
+                      "Customer_Loop": "cust in Customers",
+
+                      "Delete_btn_text": "Delete"
                      }
 }

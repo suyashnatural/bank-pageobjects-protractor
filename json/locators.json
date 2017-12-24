@@ -1,0 +1,23 @@
+{
+  "URL": {
+          "loginPageURL": "http://www.way2automation.com/angularjs-protractor/banking/#/login",
+          "customerPageURL": "http://www.way2automation.com/angularjs-protractor/banking/#/customer",
+          "bankManagerPageURL": "http://www.way2automation.com/angularjs-protractor/banking/#/manager"
+         },
+  "LoginPage": {
+                "Cust_Btn_Text": "Customer Login",
+                "Bank_Mgr_ngClick": "manager()"
+                },
+  "BankMgrHomePage": {
+                      "Add_Cust_Btn_ngClick": "addCust()",
+                      "FirstName_ngModel":"fName",
+                      "LastName_ngModel":"lName",
+                      "PostCode_ngModel":"postCd",
+                      "AddCust_Btn_css": ".btn.btn-default",
+
+                      "Open_Acc_ngClick": "openAccount()",
+                      "Cust_DropDown_ngModel": "custId",
+                      "Currency_DropDown_ngModel": "currency",
+                      "Process_btn_text":"Process"
+                     }
+}

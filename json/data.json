@@ -1,0 +1,10 @@
+{
+  "LoginPage": {
+                "Page_Title_Text": "Protractor"
+               },
+  "BankMgrHomePage": {
+                      "FirstName": "Suyash",
+                      "LastName": "Nande",
+                      "PostCode": "28262"
+                     }
+}

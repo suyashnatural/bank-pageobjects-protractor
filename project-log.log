@@ -1,0 +1,100 @@
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-23T23:12:51.887Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-23T23:12:56.582Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-23T23:14:13.088Z"}
+{"level":"info","message":"Expecting correct title","timestamp":"2017-12-23T23:14:17.489Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-23T23:14:17.494Z"}
+{"level":"info","message":"Expecting in-correct title","timestamp":"2017-12-23T23:14:19.847Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-23T23:15:20.294Z"}
+{"level":"info","message":"Expecting correct title","timestamp":"2017-12-23T23:15:24.621Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-23T23:15:24.630Z"}
+{"level":"info","message":"Expecting in-correct title","timestamp":"2017-12-23T23:15:27.479Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-23T23:17:20.069Z"}
+{"level":"info","message":"Expecting correct title","timestamp":"2017-12-23T23:17:24.450Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-23T23:17:24.930Z"}
+{"level":"info","message":"Expecting in-correct title","timestamp":"2017-12-23T23:17:27.435Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-24T00:48:28.108Z"}
+{"level":"info","message":"Expecting correct title","timestamp":"2017-12-24T00:48:32.662Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-24T00:48:33.179Z"}
+{"level":"info","message":"Expecting in-correct title","timestamp":"2017-12-24T00:48:35.555Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-24T00:49:07.004Z"}
+{"level":"info","message":"Expecting correct title","timestamp":"2017-12-24T00:49:12.249Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-24T01:04:39.931Z"}
+{"level":"info","message":"Expecting correct title","timestamp":"2017-12-24T01:04:44.035Z"}
+{"level":"info","message":"Redirected to the website","timestamp":"2017-12-24T01:28:53.639Z"}
+{"level":"info","message":"Expecting correct title","timestamp":"2017-12-24T01:28:57.588Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T06:46:34.074Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T06:46:34.080Z"}
+{"level":"info","message":"validating the page title to be Protractor","timestamp":"2017-12-24T06:46:34.081Z"}
+{"level":"info","message":"adding the customer info","timestamp":"2017-12-24T06:46:40.420Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T06:51:44.880Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T06:51:44.885Z"}
+{"level":"info","message":"validating the page title to contain Protractor","timestamp":"2017-12-24T06:51:44.886Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T06:51:51.352Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T06:56:23.960Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T06:56:23.965Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T06:56:23.967Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T06:56:29.930Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T06:56:29.930Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T06:56:29.931Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T06:58:50.233Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T06:58:50.237Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T06:58:50.238Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T06:58:56.001Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T06:58:56.002Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T06:58:56.006Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T07:02:56.548Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T07:02:56.552Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T07:02:56.554Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T07:03:15.068Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T07:03:15.068Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T07:03:29.781Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T07:03:29.783Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T07:03:29.784Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T07:03:35.479Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T07:03:35.479Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T07:05:06.380Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T07:05:06.383Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T07:05:06.385Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T07:05:12.071Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T07:05:12.071Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T07:05:12.072Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T17:42:11.760Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T17:42:11.764Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T17:42:11.765Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T17:43:00.746Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T17:43:00.749Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T17:43:00.751Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T17:43:06.747Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T17:43:06.747Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T17:43:06.747Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T17:45:05.312Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T17:45:05.316Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T17:45:05.320Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T17:45:11.421Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T17:45:11.422Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T17:45:11.422Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T17:46:14.883Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T17:46:14.885Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T17:46:14.886Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T17:46:21.050Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T17:46:21.050Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T17:47:28.261Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T17:47:28.264Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T17:47:28.265Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T17:47:34.196Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T17:47:34.196Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T17:47:34.197Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T17:48:37.549Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T17:48:37.552Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T17:48:37.553Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T17:48:44.050Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T17:48:44.050Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T17:48:44.051Z"}
+{"level":"info","message":"New CustomerSuyash added with Customer Id: Customer added successfully with customer id :6","timestamp":"2017-12-24T17:48:45.097Z"}
+{"level":"info","message":"navigated to url: http://www.way2automation.com/angularjs-protractor/banking/#/login","timestamp":"2017-12-24T17:49:56.461Z"}
+{"level":"info","message":"creating the reference of customer details page","timestamp":"2017-12-24T17:49:56.463Z"}
+{"level":"info","message":"validating the page title to contain: Protractor","timestamp":"2017-12-24T17:49:56.465Z"}
+{"level":"info","message":"customer info added","timestamp":"2017-12-24T17:50:02.001Z"}
+{"level":"info","message":"alert present","timestamp":"2017-12-24T17:50:02.001Z"}
+{"level":"info","message":"alert accepted","timestamp":"2017-12-24T17:50:02.002Z"}
+{"level":"info","message":"Customer added successfully with customer id :6","timestamp":"2017-12-24T17:50:03.004Z"}

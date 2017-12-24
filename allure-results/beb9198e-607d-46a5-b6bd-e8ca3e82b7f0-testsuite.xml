@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1514091062676' stop='1514091063196'>
+    <name>Bank Manager Login Test</name>
+    <title>Bank Manager Login Test</title>
+    <test-cases>
+        <test-case start='1514091062676' status='failed' stop='1514091063196'>
+            <name>encountered a declaration exception</name>
+            <title>encountered a declaration exception</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b483df28-7e11-4fcc-9eaa-bd38efc17f77-attachment.png' type='image/png' size='10387'/>
+            </attachments>
+            <failure>
+                <message>Error: Cannot find module '/utilities/customlocators.js'</message>
+                <stack-trace>Error: Cannot find module '/utilities/customlocators.js'
+                    at Function.Module._resolveFilename (module.js:536:15)
+                    at Function.Module._load (module.js:466:25)
+                    at Module.require (module.js:579:17)
+                    at require (internal/module.js:11:18)
+                    at Object.&lt;anonymous> (/Users/suyashnande/WebstormProjects/BankPageObjects/page_actions/homepage.js:1:63)
+                    at Module._compile (module.js:635:30)
+                    at Object.Module._extensions..js (module.js:646:10)
+                    at Module.load (module.js:554:32)
+                    at tryModuleLoad (module.js:497:12)
+                    at Function.Module._load (module.js:489:3)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

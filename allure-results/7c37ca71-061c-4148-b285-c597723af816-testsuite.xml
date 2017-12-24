@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1514077424786' stop='1514077429770'>
+    <name>Testing the report and log</name>
+    <title>Testing the report and log</title>
+    <test-cases>
+        <test-case start='1514077424786' status='passed' stop='1514077429769'>
+            <name>validating correct title</name>
+            <title>validating correct title</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='81b98ef6-f697-4f41-ad71-1ca58cb5e82c-attachment.png' type='image/png' size='38048'/>
+            </attachments>
+        </test-case>
+        <test-case start='1514077429769' status='pending' stop='1514077429770'>
+            <name>validating in-correct title</name>
+            <title>validating in-correct title</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

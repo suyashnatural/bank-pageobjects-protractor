@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1514091033655' stop='1514091034171'>
+    <name>Bank Manager Login Test</name>
+    <title>Bank Manager Login Test</title>
+    <test-cases>
+        <test-case start='1514091033656' status='failed' stop='1514091034170'>
+            <name>encountered a declaration exception</name>
+            <title>encountered a declaration exception</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7e99ea5d-1557-489a-8323-6f9eeb623d65-attachment.png' type='image/png' size='10387'/>
+            </attachments>
+            <failure>
+                <message>Error: Cannot find module '/page_actions/homepage.js'</message>
+                <stack-trace>Error: Cannot find module '/page_actions/homepage.js'
+                    at Function.Module._resolveFilename (module.js:536:15)
+                    at Function.Module._load (module.js:466:25)
+                    at Module.require (module.js:579:17)
+                    at require (internal/module.js:11:18)
+                    at Suite.&lt;anonymous> (/Users/suyashnande/WebstormProjects/BankPageObjects/test_spec/BankManagerLogin_spec.js:2:20)
+                    at addSpecsToSuite (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)
+                    at Env.describe (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)
+                    at describe (/usr/local/lib/node_modules/protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (/Users/suyashnande/WebstormProjects/BankPageObjects/test_spec/BankManagerLogin_spec.js:1:63)
+                    at Module._compile (module.js:635:30)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

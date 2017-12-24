@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1514137145728' stop='1514137146649'>
+    <name>Bank Manager Login Test</name>
+    <title>Bank Manager Login Test</title>
+    <test-cases>
+        <test-case start='1514137145728' status='failed' stop='1514137146649'>
+            <name>encountered a declaration exception</name>
+            <title>encountered a declaration exception</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='57fd4dee-207d-4e8b-b482-ae0db9ed5c8b-attachment.png' type='image/png' size='10368'/>
+            </attachments>
+            <failure>
+                <message>SyntaxError: /Users/suyashnande/WebstormProjects/BankPageObjects/json/locators.json: Unexpected string in JSON at position 778</message>
+                <stack-trace>SyntaxError: /Users/suyashnande/WebstormProjects/BankPageObjects/json/locators.json: Unexpected string in JSON at position 778
+                    at JSON.parse (&lt;anonymous>)
+                    at Object.Module._extensions..json (module.js:654:27)
+                    at Module.load (module.js:554:32)
+                    at tryModuleLoad (module.js:497:12)
+                    at Function.Module._load (module.js:489:3)
+                    at Module.require (module.js:579:17)
+                    at require (internal/module.js:11:18)
+                    at Object.&lt;anonymous> (/Users/suyashnande/WebstormProjects/BankPageObjects/page_actions/customerdetails_page.js:2:27)
+                    at Module._compile (module.js:635:30)
+                    at Object.Module._extensions..js (module.js:646:10)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

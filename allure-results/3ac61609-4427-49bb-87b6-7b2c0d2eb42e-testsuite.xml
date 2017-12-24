@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1514097584076' stop='1514097584643'>
+    <name>Bank Manager Login Test</name>
+    <title>Bank Manager Login Test</title>
+    <test-cases>
+        <test-case start='1514097584076' status='failed' stop='1514097584642'>
+            <name>encountered a declaration exception</name>
+            <title>encountered a declaration exception</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a0d1e22f-3664-4f30-af20-e20e22eed424-attachment.png' type='image/png' size='10423'/>
+            </attachments>
+            <failure>
+                <message>Error: Cannot find module '../page_actions/customerdetailspage.js'</message>
+                <stack-trace>Error: Cannot find module '../page_actions/customerdetailspage.js'
+                    at Function.Module._resolveFilename (module.js:536:15)
+                    at Function.Module._load (module.js:466:25)
+                    at Module.require (module.js:579:17)
+                    at require (internal/module.js:11:18)
+                    at Object.&lt;anonymous> (/Users/suyashnande/WebstormProjects/BankPageObjects/page_actions/home_page.js:2:1)
+                    at Module._compile (module.js:635:30)
+                    at Object.Module._extensions..js (module.js:646:10)
+                    at Module.load (module.js:554:32)
+                    at tryModuleLoad (module.js:497:12)
+                    at Function.Module._load (module.js:489:3)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

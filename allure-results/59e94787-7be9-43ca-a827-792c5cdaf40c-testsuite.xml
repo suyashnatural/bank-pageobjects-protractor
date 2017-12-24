@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1514137380739' stop='1514137388643'>
+    <name>Bank Manager Login Test - </name>
+    <title>Bank Manager Login Test - </title>
+    <test-cases>
+        <test-case start='1514137380740' status='passed' stop='1514137386745'>
+            <name>should login as bank manager</name>
+            <title>should login as bank manager</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9d25450e-58b5-43df-a533-9da98d0135bf-attachment.png' type='image/png' size='37566'/>
+            </attachments>
+        </test-case>
+        <test-case start='1514137386745' status='passed' stop='1514137388324'>
+            <name>should add a customer</name>
+            <title>should add a customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='fa72935f-8af4-44d5-9bb9-3b199dd30ee1-attachment.png' type='image/png' size='64671'/>
+            </attachments>
+        </test-case>
+        <test-case start='1514137388324' status='passed' stop='1514137388642'>
+            <name>should open an account</name>
+            <title>should open an account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b1946eb8-c3a1-4e29-88ac-b1394a4adf1c-attachment.png' type='image/png' size='64671'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

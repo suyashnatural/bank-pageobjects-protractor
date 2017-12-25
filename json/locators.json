@@ -25,5 +25,31 @@
                       "Customer_Loop": "cust in Customers",
 
                       "Delete_btn_text": "Delete"
-                     }
+                     },
+  "CustomerActionPage": {
+                          "cust_dropdown_ngModel":"custId",
+                          "Login_Btn_Text": "Login",
+                          "Name_validate_css": "span.fontBig.ng-binding"
+                        },
+  "Deposit": {
+                "Deposit_btn_ngClick": "deposit()",
+                "Deposit_Amt_ngModel": "amount",
+                "Deposit_Btn_CSS": "button.btn.btn-default",
+                "Acc_no_id": "accountSelect",
+                "Deposit_Status_CSS": "span.error.ng-binding",
+                "Deposit_Balance": "strong.ng-binding"
+             },
+  "Withdrawl": {
+                  "Withdraw_Btn_ngClick": "withdrawl()",
+                  "Withdraw_Amt_ngModel": "amount",
+                  "Acc_no_id": "accountSelect",
+                  "Withdraw_Btn_CSS": "button.btn.btn-default",
+                  "Withdraw_Status_CSS": "span.error.ng-binding",
+                  "Withdraw_Balance": "strong.ng-binding"
+               },
+  "Transactions": {
+                    "Trans_Btn_ngClick":"transactions()",
+                    "Trans_Loop":"tx in transactions | orderBy:sortType:sortReverse | sDate:startDate:end"
+                  }
+
 }

@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1514167977541' stop='1514167983728'>
+    <name>Customer Functionality Test - </name>
+    <title>Customer Functionality Test - </title>
+    <test-cases>
+        <test-case start='1514167977541' status='passed' stop='1514167981716'>
+            <name>should login as customer</name>
+            <title>should login as customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a87e5339-dbd5-46d0-b0c4-8966c5b3792e-attachment.png' type='image/png' size='61447'/>
+            </attachments>
+        </test-case>
+        <test-case start='1514167981716' status='passed' stop='1514167982798'>
+            <name>should deposit the money in account</name>
+            <title>should deposit the money in account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d45ae399-b6c0-4cca-80d3-3e3f8f1d3ba1-attachment.png' type='image/png' size='82676'/>
+            </attachments>
+        </test-case>
+        <test-case start='1514167982798' status='passed' stop='1514167983728'>
+            <name>should withdraw the given amount from the account</name>
+            <title>should withdraw the given amount from the account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9dbe56ff-9dcc-441e-a2d1-26b590d012b3-attachment.png' type='image/png' size='82374'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

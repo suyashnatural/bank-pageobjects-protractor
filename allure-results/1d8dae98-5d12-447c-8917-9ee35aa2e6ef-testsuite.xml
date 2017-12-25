@@ -1,0 +1,51 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1514175918273' stop='1514175932877'>
+    <name>Customer Functionality Test - </name>
+    <title>Customer Functionality Test - </title>
+    <test-cases>
+        <test-case start='1514175918274' status='passed' stop='1514175922569'>
+            <name>should login as customer</name>
+            <title>should login as customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='108b0566-e709-4d5d-99bb-df527876bcb1-attachment.png' type='image/png' size='61447'/>
+            </attachments>
+        </test-case>
+        <test-case start='1514175922569' status='pending' stop='1514175922569'>
+            <name>should deposit the money in account</name>
+            <title>should deposit the money in account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1514175922569' status='pending' stop='1514175922569'>
+            <name>should withdraw the given amount from the account</name>
+            <title>should withdraw the given amount from the account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1514175922569' status='passed' stop='1514175932877'>
+            <name>should display all the transactions</name>
+            <title>should display all the transactions</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6772327e-a1e7-42d6-816e-2b1cfe282ab1-attachment.png' type='image/png' size='98136'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

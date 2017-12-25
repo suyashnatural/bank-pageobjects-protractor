@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1514165129942' stop='1514165135561'>
+    <name>Customer Functionality Test - </name>
+    <title>Customer Functionality Test - </title>
+    <test-cases>
+        <test-case start='1514165129942' status='passed' stop='1514165134370'>
+            <name>should login as customer</name>
+            <title>should login as customer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e44d3b9a-bb10-429f-b1c7-8b56a6fd3b82-attachment.png' type='image/png' size='61447'/>
+            </attachments>
+        </test-case>
+        <test-case start='1514165134370' status='passed' stop='1514165135561'>
+            <name>should deposit the money in account</name>
+            <title>should deposit the money in account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='3dca43e5-e2a2-4e21-8b7b-3458e9b28058-attachment.png' type='image/png' size='82676'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

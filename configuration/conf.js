@@ -12,7 +12,7 @@ exports.config = {
 
     // Spec patterns are relative to the current working directory when
     // protractor is called.
-    specs: ['../test_spec/BankManagerLogin_spec.js'],
+    specs: ['../test_spec/CustomerTest_spec.js'],
 
     // Options to be passed to Jasmine.
     jasmineNodeOpts: {
@@ -33,8 +33,7 @@ exports.config = {
                 done();
             })
         });
-    },
-
+    }
     /*
  onComplete:function () {
          console.log('Sending Email with reports for the test execution');

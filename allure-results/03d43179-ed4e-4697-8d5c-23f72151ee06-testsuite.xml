@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1514164461027' stop='1514164461587'>
+    <name>Customer Functionality Test - </name>
+    <title>Customer Functionality Test - </title>
+    <test-cases>
+        <test-case start='1514164461028' status='failed' stop='1514164461587'>
+            <name>encountered a declaration exception</name>
+            <title>encountered a declaration exception</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='94ad49ed-8b14-4d6d-9687-67a0c6267e75-attachment.png' type='image/png' size='10423'/>
+            </attachments>
+            <failure>
+                <message>SyntaxError: /Users/suyashnande/WebstormProjects/BankPageObjects/json/locators.json: Unexpected token } in JSON at position 1777</message>
+                <stack-trace>SyntaxError: /Users/suyashnande/WebstormProjects/BankPageObjects/json/locators.json: Unexpected token } in JSON at position 1777
+                    at JSON.parse (&lt;anonymous>)
+                    at Object.Module._extensions..json (module.js:654:27)
+                    at Module.load (module.js:554:32)
+                    at tryModuleLoad (module.js:497:12)
+                    at Function.Module._load (module.js:489:3)
+                    at Module.require (module.js:579:17)
+                    at require (internal/module.js:11:18)
+                    at Object.&lt;anonymous> (/Users/suyashnande/WebstormProjects/BankPageObjects/page_actions/customerdetails_page.js:2:27)
+                    at Module._compile (module.js:635:30)
+                    at Object.Module._extensions..js (module.js:646:10)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

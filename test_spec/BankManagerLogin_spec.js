@@ -1,4 +1,4 @@
-describe('Bank Manager Login Test - ', function () {
+describe('Bank Manager Functionality Test - ', function () {
     var homepage = require('../page_actions/home_page.js');
     var basepage = require('../page_actions/base_page.js');
     var locators = require('../json/locators.json');

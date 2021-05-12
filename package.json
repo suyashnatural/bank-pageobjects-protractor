@@ -12,7 +12,7 @@
     "chai": "^4.1.2",
     "jasmine-allure-reporter": "^1.0.2",
     "jasmine-data-provider": "^2.2.0",
-    "nodemailer": "^4.4.1",
+    "nodemailer": "^6.4.16",
     "nodemailer-smtp-transport": "^2.7.4",
     "protractor": "^5.2.2",
     "winston": "^2.4.0",
